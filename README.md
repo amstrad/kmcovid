@@ -1,4 +1,4 @@
-# 1kmcovid
+# km covid
 
 ## Project setup
 ```
