@@ -3,7 +3,7 @@
 
 https://kmcovid.web.app/
 
-
+![alt text](https://github.com/amstrad/kmcovid/screenshot.png)
 
 
 ## Project setup
