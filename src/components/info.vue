@@ -48,7 +48,7 @@
             <v-btn @click="deleteLocalData" color="error" class="mt-1" small><v-icon>mdi-delete</v-icon> Eliminar datos locales</v-btn>
           </v-alert>
 
-          <b>Esta App usa Google Analytics</b> para hacer seguimiento de uso y visitas. <a href="https://policies.google.com/privacy?hl=es">Consulta la política de privacidad de Google</a>. No usamos cookies. No guardamos, almacenamos ni compartimos datos o localizaciones.
+          <b>Esta App usa Google Analytics</b> para hacer seguimiento de uso y visitas. <a href="https://policies.google.com/privacy?hl=es">Consulta la política de privacidad de Google</a>. No usa cookies. No guarda, almacena ni comparte datos o localizaciones fuera de tu terminal.
 
           <h4 class="mt-5 mb-5">Compartir</h4>
           <social-sharing url="https://kmcovid.web.app/"

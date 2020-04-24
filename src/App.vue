@@ -196,7 +196,6 @@ import Intro from './components/Intro';
 import Info from './components/info';
 
 import {gmapApi} from 'vue2-google-maps'
-//AIzaSyDvnO_Nz0KbzumS9E3xxTgzeITMvEvJV58
 
 export default {
   name: 'App',
