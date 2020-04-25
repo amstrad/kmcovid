@@ -1,6 +1,6 @@
 module.exports = {
   pwa: {
-    name: 'My App',
+    name: 'KM Covid',
     themeColor: '#3f51b5',
     msTileColor: '#ffffff',
     appleMobileWebAppCapable: 'yes',
@@ -10,7 +10,7 @@ module.exports = {
     workboxPluginMode: 'InjectManifest',
     workboxOptions: {
       // swSrc is required in InjectManifest mode.
-      swSrc: 'src/registerServiceWorker.js',
+      swSrc: 'src/service-worker.js',
       // ...other Workbox options...
     }
   },

@@ -3,12 +3,16 @@ import App from './App.vue'
 import vuetify from './plugins/vuetify';
 import * as VueGoogleMaps from 'vue2-google-maps'
 import "./registerServiceWorker";
+import './registerServiceWorker'
 var SocialSharing = require('vue-social-sharing');
+
+
+
 
 Vue.use(VueGoogleMaps, {
   load: {
     key: '',
-    libraries: 'places,geometry', // This is required if you use the Autocomplete plugin
+    libraries: 'places', // This is required if you use the Autocomplete plugin
     // OR: libraries: 'places,drawing'
     // OR: libraries: 'places,drawing,visualization'
     // (as you require)
