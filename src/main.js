@@ -7,7 +7,7 @@ var SocialSharing = require('vue-social-sharing');
 
 Vue.use(VueGoogleMaps, {
   load: {
-    key: 'AIzaSyDvnO_Nz0KbzumS9E3xxTgzeITMvEvJV58',
+    key: '',
     libraries: 'places,geometry', // This is required if you use the Autocomplete plugin
     // OR: libraries: 'places,drawing'
     // OR: libraries: 'places,drawing,visualization'
